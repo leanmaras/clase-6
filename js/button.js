@@ -8,6 +8,7 @@ export default class Button {
     /*render() {
         return `<button>${this.text}</button>`
     }*/
+
 }
 
 Button.prototype.render = render2;
